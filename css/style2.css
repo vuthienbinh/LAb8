@@ -1,0 +1,19 @@
+main{
+    overflow: hidden;
+}
+ 
+ nav {
+    float: none;
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    flex-direction:row;
+   padding: 40px;
+
+} nav a{
+    border: none;
+    padding: 20px;
+    margin-right: 15px;
+   
+    
+}

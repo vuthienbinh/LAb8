@@ -1,0 +1,60 @@
+body {
+   
+    background-color: white;
+    background-size: cover;
+}
+
+header {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+
+   
+}
+h2{
+    color: skyblue; 
+   }
+
+   main {
+    padding: 90px;
+    overflow: auto;
+
+}
+
+.img{
+    float: right;
+}
+
+nav {
+    float: left;
+    padding: bottom 255px;
+    display: flex;
+    flex-direction: column;
+    background-color: royalblue;
+
+  
+
+}
+
+
+
+
+
+nav a {
+    
+    color: white;
+  
+  padding: 20px 40px;
+    text-decoration: none;
+    background-color: blue;
+    border-bottom: 3px solid white;
+    
+}
+
+
+footer {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+
+}

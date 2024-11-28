@@ -1,0 +1,29 @@
+.img{
+    float: none;
+    width: fit-content;
+}
+
+header{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    padding-left: 10px;
+}
+h2{
+    font-size: 2em;
+}
+
+nav {
+    float: none;
+    text-align: left;
+    display: flex;
+    background-color: dodgerblue;
+    padding-bottom: 0%;
+    flex-direction:column;
+
+}
+nav a{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 5px solid white;
+}
